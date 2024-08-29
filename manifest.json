@@ -1,0 +1,20 @@
+{
+  "name": "Style Studio",
+  "id": "1292924330904373989",
+  "api": "1.0.0",
+  "main": "./dist/index.js",
+  "ui": "./dist/index.html",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "documentAccess": "dynamic-page",
+  "editorType": [
+    "figma"
+  ],
+  "networkAccess": {
+    "allowedDomains": [
+      "https://static.figma.com",
+      "https://fonts.gstatic.com",
+      "https://fonts.googleapis.com"
+    ]
+  }
+}
