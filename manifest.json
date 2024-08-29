@@ -9,5 +9,10 @@
   "documentAccess": "dynamic-page",
   "editorType": [
     "figma"
-  ]
+  ],
+  "networkAccess": {
+    "allowedDomains": [
+      "none"
+    ]
+  }
 }
