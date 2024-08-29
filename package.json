@@ -17,6 +17,7 @@
     "css-loader": "^6.8.1",
     "html-inline-script-webpack-plugin": "^3.2.1",
     "html-webpack-plugin": "^5.5.3",
+    "sass": "^1.77.8",
     "sass-loader": "^13.3.2",
     "style-loader": "^3.3.3",
     "ts-loader": "^9.5.0",
@@ -27,7 +28,6 @@
   },
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "sass": "^1.69.5"
+    "react-dom": "^18.2.0"
   }
 }
